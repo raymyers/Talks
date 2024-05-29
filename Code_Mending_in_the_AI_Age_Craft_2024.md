@@ -1,16 +1,17 @@
-# Code Mending For The AI Age - Craft 2024
+# Code Mending in the AI Age - Craft 2024
 
 ## Talk Resources
 <!-- * [Slides](./Slides/sampleslides.pptx) -->
 * [Donut Code](https://github.com/craftvscruft/refactoring-ioccc-2006-sloane)
 * [Refactoring video](https://youtu.be/IznA7VZDiJc)
-* ["RefactorGPT and the future of maintenance" video](https://www.youtube.com/watch?v=pc05to-uKzI)
+* Video: [RefactorGPT and the future of maintenance](https://www.youtube.com/watch?v=pc05to-uKzI)
 
-## Your Name<!-- include: ray.md -->
+## Ray Myers<!-- include: ray.md -->
 
-* [Your Blog](https://you.blogspot.com/)
-* [Your Others links](https://google.com/you)
+* [Mender.AI](https://mender.ai)
+* [Craft vs Cruft](https://www.youtube.com/@craftvscruft8060) - YouTube
+* [LinkedIn](https://www.linkedin.com/in/cadrlife)
 
-A bit about you
+Retrofuturist software mender.
 <!-- endInclude -->
 
