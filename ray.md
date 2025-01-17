@@ -1,7 +1,8 @@
 ## Ray Myers
 
-* [Mender.AI](https://mender.ai)
-* [Craft vs Cruft](https://www.youtube.com/@craftvscruft8060) - YouTube
-* [LinkedIn](https://www.linkedin.com/in/cadrlife)
+> Retrofuturist software mender
 
-Retrofuturist software mender.
+* [Craft vs Cruft](https://www.youtube.com/@craftvscruft8060) - YouTube
+* [Empathy in Tech](https://www.empathyintech.com/) - Podcast
+* [raymyers.org](https://raymyers.org)
+* [LinkedIn](https://www.linkedin.com/in/cadrlife)
