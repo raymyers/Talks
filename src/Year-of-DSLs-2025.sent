@@ -1,0 +1,144 @@
+2025
+
+2025
+the year of...
+
+Domain-Specific
+Languages
+
+DSLs
+
+back to 2007
+
+first job
+
+wrote so many tests
+
+so tedious
+
+one team so productive
+
+code so short
+
+code so strange
+
+learn their ways
+
+fluent interfaces
+
+made my own
+
+10 lines became 1
+
+100 lines became 10
+
+tests are much easier
+
+everyone happy
+
+what happened?
+
+DSLs
+
+DSLs are programming languages...
+
+small
+special purpose
+
+domain
+
+▸ business domain
+▸ problem domain
+
+textual
+
+▸ textual
+▸ visual
+
+▸ internal
+▸ external
+
+// internal
+one.day.before(yesterday)
+
+// external
+/^-?\d*(\.\d+)?$/
+
+// external
+SELECT customers.id, customers.first_name, orders.item
+FROM customers JOIN orders
+ON customers.customer_id = orders.customer_id;
+
+spreadsheets
+
+so much variety
+
+why
+
+notation
+
+little worlds
+
+efficiency
+
+quality
+
+accessibility
+
+empower the experts
+
+decouple business rules
+from legacy code
+
+why not
+
+advanced
+risk management
+
+challenging to get right
+
+poor tool support
+
+we've been burned
+
+why now
+
+cost/benefit is shifting
+
+AI
+
+Large-Language Models (LLMs)
+
+Formal Methods
+
+language workbenches
+
+what's next?
+
+cool DSLs
+
+cool DSLs
+comment your favorites
+
+domain modeling
+
+compilers
+
+parsing
+e.g. Antlr
+
+Abstract Syntax Trees
+ASTs
+
+type checkers
+
+constraint solvers
+e.g. Z3
+
+formal semantics
+
+structural editing
+
+projectional editing
+
+what else?

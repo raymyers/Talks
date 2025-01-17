@@ -1,0 +1,87 @@
+# LinkedIn Post
+# https://www.linkedin.com/posts/cadrlife_let-me-translate-the-o3-coding-benchmark-activity-7277038051590029313-yJlR?utm_source=share&utm_medium=member_desktop
+
+# Slides using the minimalist tool Sent
+# https://tools.suckless.org/sent/
+
+SWE-bench
+
+SWE-bench measures AI coding agents
+on realistic tasks from GitHub
+
+Provides an incomplete
+yet useful view
+
+SOTA
+
+SOTA = State Of The Art
+
+50% to 55%
+Verified Subset
+
+Leaders
+• Propietary: Amazon Q Developer
+• Open Source: OpenHands CodeAct
+• Updates on SWE-bench.com
+
+SOTA Model
+Claude-3.5 Sonnet
+
+o1 is strong but slow
+
+o3 will be insanely expensive
+71.7% is reported
+
+Misconceptions
+
+1) Benchmarks gonna benchmark
+
+Benchmarks do not compare
+humans to machines
+
+Human exams are not
+calibrated for machines
+
+One benchmark is never
+the end of the line
+
+Benchmarks become saturated
+and we find new ones
+
+2) Sampling
+
+Score ≠ % of all tasks
+
+Examples are from
+OSS Python libraries
+
+Selects for simple
+well-defined tasks
+
+3) Subsets
+
+Subsets
+• full
+• lite
+• verified
+
+Currently, we mostly use
+SWE-bench verified
+
+4) Agents vs Models
+
+SWE-bench is mostly
+an agent benchmark
+
+Most improvements came
+from better agents
+
+Model improvements have
+made only minor difference
+
+Claude 3.5 Sonnet is the best
+These are all basically GPT-4
+
+5) Contamination
+
+Konwinski prize
