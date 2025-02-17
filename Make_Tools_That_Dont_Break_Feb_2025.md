@@ -1,4 +1,6 @@
-# Make Tools That Don't Break - AI Native Dev Meetup 2025
+# Make Tools That Don't Break
+
+> AI Native Dev Meetup, February 2025, New York City
 
 ## Talk Resources
 * Slides (coming soon)
