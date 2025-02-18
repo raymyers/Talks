@@ -3,7 +3,7 @@
 > AI Native Dev Meetup, February 2025, New York City
 
 ## Talk Resources
-* Slides (coming soon)
+* [Slides](./Slides/Make_Tools_That_Dont_Break_Feb_2025.pptx)
 * [Donut Code](https://github.com/craftvscruft/refactoring-ioccc-2006-sloane)
 * [Refactoring video](https://youtu.be/IznA7VZDiJc)
 * Video: [RefactorGPT and the future of maintenance](https://www.youtube.com/watch?v=pc05to-uKzI)
