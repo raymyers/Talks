@@ -1,4 +1,4 @@
-# Make Tools That Don't Break
+# AI Hates Legacy Code
 
 > Calgary Software Crafters, September 2025
 
